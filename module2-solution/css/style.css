@@ -32,6 +32,10 @@ section {
 	float: left;
 }
 
+#footer {
+  text-align: center;
+}
+
 .row {
   width: 100%;
 }
