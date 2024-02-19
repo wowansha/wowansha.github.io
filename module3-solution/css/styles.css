@@ -12,6 +12,12 @@
  	padding: 20px 0 15px 0;
 }
 
+ul {
+	padding-top: 0;
+	padding-bottom: 0;
+}
+
+
 .navbar-brand a:hover, .navbar-brand a:focus {
   text-decoration: none;
 }
